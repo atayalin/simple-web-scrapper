@@ -1,0 +1,26 @@
+{
+    "scrappers": [
+        {
+            "name": "kitapyurdu",
+            "words": [
+                "python"
+            ],
+            "url": "https://www.kitapyurdu.com/",
+            "when": [
+                "12:30",
+                "10:30"
+            ]
+        },
+        {
+            "name": "kitapsepeti",
+            "words": [
+                "python"
+            ],
+            "url": "https://www.kitapsepeti.com/",
+            "when": [
+                "12:30",
+                "10:30"
+            ]
+        }
+    ]
+}

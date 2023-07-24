@@ -1,0 +1,4 @@
+# If you run without docker
+/env
+#
+/src/__pycache__
